@@ -169,10 +169,10 @@ h6 {
     margin-left: 160px;
   }
 
-  .header~main .hero {
+  /* .header~main .hero {
     margin-left: -160px;
     width: 100vw;
-  }
+  } */
 }
 
 .header.header-show {
